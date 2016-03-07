@@ -122,6 +122,10 @@
     <Content Include="trainingsanleitungen\minecraft-plugins\06_getafix-MagicPotion\Getafix\src\com\bajupa\getafix\PotionPot.java" />
     <Content Include="trainingsanleitungen\minecraft-plugins\06_getafix-MagicPotion\ListPotionDrinkers.png" />
     <Content Include="trainingsanleitungen\minecraft-plugins\craftbukkit.jar" />
+    <Content Include="trainingsanleitungen\python\python-erste-schritte\IDLE-NewFile.png" />
+    <Content Include="trainingsanleitungen\python\python-erste-schritte\IDLE-Save.png" />
+    <Content Include="trainingsanleitungen\python\python-erste-schritte\IDLE-Windows.png" />
+    <Content Include="trainingsanleitungen\python\python-erste-schritte\TurtleZ.py" />
     <Content Include="trainingsanleitungen\scratch\scratch-breakout\01-choose-background.png" />
     <Content Include="trainingsanleitungen\scratch\scratch-breakout\02-delete-scratchy.png" />
     <Content Include="trainingsanleitungen\scratch\scratch-breakout\03-create-figures.png" />
@@ -469,6 +473,7 @@
     <Content Include="trainingsanleitungen\scratch\scratch-weihnachten.md" />
     <Content Include="trainingsanleitungen\scratch\scratch-weihnachten\Weihnachtsspiel.zip" />
     <Content Include="trainingsanleitungen\scratch\scratch-sierpinski-dreieck.md" />
+    <Content Include="trainingsanleitungen\python\python-erste-schritte.md" />
     <Content Include="mentoren\pendelin-philipp.md" />
     <Content Include="trainingsanleitungen\scratch\scratch-pac-man.md" />
     <Content Include="trainingsanleitungen\scratch\scratch-pac-man\pac-man.zip" />
